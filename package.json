@@ -1,0 +1,15 @@
+{
+  "name": "unity-webgl-binding",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc --build",
+    "clean": "tsc --clean"
+  },
+  "author": "yaegaki",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
